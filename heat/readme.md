@@ -1,8 +1,8 @@
 # This is a demo for visualize the attention weight from deeparc
 
 ## Introduction
-1.models.py: about model
-2.load_data.py: data_preprocessing and padding
+1.models.py: about model<br>
+2.load_data.py: data_preprocessing and padding<br>
 3.pad.py: visualize the attention weight for sequence by drawing a heat map
 
 ## Before running
